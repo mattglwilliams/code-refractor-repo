@@ -9,4 +9,8 @@ After viewing the source code, I decided to make the following changes:
 * Added comments to both the HTML and CSS file to give more clarity on the different parts of the code and to make it clear which sections are which.
 * Repositioned the CSS slightly so it follows the same order as the HTML. This involved moving the content section above the benefits section.
 
-##
+## Deployed page screenshot
+![This is a screenshot of the deplayed application](./assets/images/deployed-page-screenshot.png)
+
+## Deployed page
+[This is a link to the deployed application](https://mattglwilliams.github.io/code-refractor-repo/)
